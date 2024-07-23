@@ -1,0 +1,4 @@
+DatasetID,year1,author1,DATA (B) 0.1,ERR-T (B) 0.911,EN (EV) 1.1,E-EXC (EV) 2.1,zaTarg1,Targ1,Proj,Emission,Prod,MF,MT,ReacType,Quant1,nx,indVars,Reacode
+C1523002,1984,T.N.Taddeucci+,0.0084,0.0013,3.5e+7,3.95e+6,6014,6-C-14,P,N,7-N-14,3,0,CSP,CSP,2,23,"6-C-14(P,N)7-N-14,PAR,SIG"
+C1523002,1984,T.N.Taddeucci+,0.0066,0.001,3.5e+7,2.31e+6,6014,6-C-14,P,N,7-N-14,3,0,CSP,CSP,2,23,"6-C-14(P,N)7-N-14,PAR,SIG"
+C1523002,1984,T.N.Taddeucci+,0.0014,2.0e-4,3.5e+7,0,6014,6-C-14,P,N,7-N-14,3,0,CSP,CSP,2,23,"6-C-14(P,N)7-N-14,PAR,SIG"
